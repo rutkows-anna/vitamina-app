@@ -2,7 +2,7 @@
 
 Vitamina-app is a group project (not finished) created with **React.js**, **Redux**, **Firebase** and **Material-UI**.
 
-**Live demo**: _https://app.vitamina.jfdz14.is-academy.pl/_
+**Live demo**: _http://app.vitamina.jfdz14.is-academy.pl_
 
 ## Table of contents
 * [General info](#general-info)
