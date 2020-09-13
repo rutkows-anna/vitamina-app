@@ -1,0 +1,48 @@
+.section {
+  width: min(1024px, 100%);
+  margin: 0 auto;
+}
+.title {
+  font-size: 2em;
+}
+.card_list {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.card {
+  position: relative;
+  width: 49%;
+  height: 185px;
+  margin-bottom: 8px;
+  cursor: pointer;
+  border-radius: 8px;
+  box-shadow: rgba(39, 39, 39, 0.2) 2px 2px 4px;
+}
+.img {
+  width: 100%;
+  height: inherit;
+  object-fit: cover;
+  border-radius: 8px;
+}
+.card_title {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 35%;
+  padding: 10px;
+  color: #fff;
+  background: rgba(32, 32, 32, 0.582);
+  border-radius: 0 0 8px 8px;
+  z-index: 1;
+}
+.challenge_card_info {
+  width: 50%;
+  padding: 20px;
+  text-align: center;
+  background-color: #FFF;
+  border-radius: 8px;
+  box-shadow: 2px 2px 4px rgba(39, 39, 39, 0.2);
+  cursor: pointer;
+}

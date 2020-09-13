@@ -1,0 +1,16 @@
+.chart__section {
+  width: min(1024px, 100%);
+  margin: 0 auto;
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.chart__box {
+  width: clamp(320px, 100%, 501px);
+  margin-bottom: 5px;
+}
+.chart__box__header {
+  padding-left: 8px;
+}
+

@@ -1,0 +1,82 @@
+
+{
+  "challenges": 
+    { "challenge_1": 
+        {"img": "ChallengeImage1",
+          "title": "Spacer dla Twojego umysłu.",
+          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis voluptatem blanditiis ullam nisi ea animi excepturi tempora facere, adipisci assumenda necessitatibus nulla aut consectetur sunt dolorem ipsum enim nam facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam expedita incidunt, quos provident ex mollitia eaque dolore molestiae praesentium laboriosam similique temporibus fugit! Velit dolor, harum voluptate excepturi est ratione!",
+          "id": "1",
+          "category": "Witalność"
+        },
+      "challenge_2": {
+          "img": "ChallengeImage2",
+          "title": "Wyśnij sobie spokój.",
+          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis voluptatem blanditiis ullam nisi ea animi excepturi tempora facere, adipisci assumenda necessitatibus nulla aut consectetur sunt dolorem ipsum enim nam facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam expedita incidunt, quos provident ex mollitia eaque dolore molestiae praesentium laboriosam similique temporibus fugit! Velit dolor, harum voluptate excepturi est ratione!",
+          "id": "2",
+          "category": "Zwyczaje"
+        }, 
+      "challenge_3": {
+          "img": "ChallengeImage3",
+          "title": "Pij wodę, będziesz wielki.",
+          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+          "id": "3",
+          "category": "Zwyczaje"
+        },
+        "challenge_4":
+        {
+          "img": "ChallengeImage5",
+          "title": "Ulepsz swoją dietę.",
+          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis voluptatem blanditiis ullam nisi ea animi excepturi tempora facere, adipisci assumenda necessitatibus nulla aut consectetur sunt dolorem ipsum enim nam facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam expedita incidunt, quos provident ex mollitia eaque dolore molestiae praesentium laboriosam similique temporibus fugit! Velit dolor, harum voluptate excepturi est ratione!",
+          "id": 4,
+          "category": "Dieta"
+        },
+        "challenge_5":
+        {
+          "img": "ChallengeImage6",
+          "title": "Rozciągnij się.",
+          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis voluptatem blanditiis ullam nisi ea animi excepturi tempora facere, adipisci assumenda necessitatibus nulla aut consectetur sunt dolorem ipsum enim nam facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam expedita incidunt, quos provident ex mollitia eaque dolore molestiae praesentium laboriosam similique temporibus fugit!",
+          "id": "5",
+          "category": "Witalność"
+        },
+        "challenge_6":
+        {
+          "img": "ChallengeImage4",
+          "title": "Uśmiechnij się.",
+          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis voluptatem blanditiis ullam nisi ea animi excepturi tempora facere, adipisci assumenda necessitatibus nulla aut consectetur sunt dolorem ipsum enim nam facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam expedita incidunt, quos provident ex mollitia eaque dolore molestiae praesentium laboriosam similique temporibus fugit! Velit dolor, harum voluptate excepturi est ratione!",
+          "id": "6",
+          "category": "Zwyczaje"
+        },
+        "challenge_7":
+        {
+          "img": "ChallengeImage7",
+          "title": "Czas na ćwiczenia.",
+          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis voluptatem blanditiis ullam nisi ea animi excepturi tempora facere, adipisci assumenda necessitatibus nulla aut consectetur sunt dolorem ipsum enim nam facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam expedita incidunt, quos provident ex mollitia eaque dolore molestiae praesentium laboriosam similique temporibus fugit! Velit dolor, harum voluptate excepturi est ratione!",
+          "id": "7",
+          "category": "Sylwetka"
+        },
+        "challenge_8":
+        {
+          "img": "ChallengeImage8",
+          "title": "Skup się na swoim wnętrzu.",
+          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis voluptatem blanditiis ullam nisi ea animi excepturi tempora facere, adipisci assumenda necessitatibus nulla aut consectetur sunt dolorem ipsum enim nam facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam expedita incidunt, quos provident ex mollitia eaque dolore molestiae praesentium laboriosam similique temporibus fugit!",
+          "id": "8",
+          "category": "Witalność"
+        },
+        "challenge_9":
+        {
+          "img": "ChallengeImage9",
+          "title": "Czas na hobby.",
+          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+          "id": "9",
+          "category": "Zwyczaje"
+        },
+        "challenge_10":
+        {
+          "img": "ChallengeImage10",
+          "title": "Chwila dla relaksu.",
+          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis voluptatem blanditiis ullam nisi ea animi excepturi tempora facere, adipisci assumenda necessitatibus nulla aut consectetur sunt dolorem ipsum enim nam facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam expedita incidunt, quos provident ex mollitia eaque dolore molestiae praesentium laboriosam similique temporibus fugit! Velit dolor, harum voluptate excepturi est ratione!",
+          "id": "10",
+          "category": "Zwyczaje"
+        }
+      }
+}

@@ -1,0 +1,156 @@
+.diary__section {
+  width: min(1024psx, 100%);
+  margin: 0 auto;
+
+  display: flex;
+  flex-direction: column;
+}
+.diary__header {
+  width: 100%;
+}
+
+.diary__header__title {
+  font-size: 2em;
+}
+
+.daily__value__box {
+  width: 100%;
+  height: 25vh;
+  text-align: center;
+  background-color: #fff;
+}
+
+.button {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  border: 1px solid #364954;
+  background-color: #364954;
+  transition: background .6s;
+}
+
+.button:hover {
+  background-color: transparent;
+  color: #364954;
+  transition: background .6s;
+}
+
+.button__content {
+  margin: 0;
+  font-size: 1.2em;
+}
+
+.button__icon {
+  margin-right: 5px;
+  font-size: 2em;
+  font-weight: bolder;
+}
+
+.diary__post__box {
+  width: 95%;
+  margin: 5px auto;
+  padding: 10px;
+  background-color: #fff;
+  border-radius: 5px;
+
+  display: flex;
+  justify-content: space-between;
+  /* align-items: center; */
+}
+.diary__post__content {
+  margin: 0 5px;
+}
+
+.post__title {
+  margin: 0;
+  font-size: 1.3em;
+  font-weight: bolder;
+}
+.post__date {
+  font-size: .7em;
+}
+.diary__post__button__delete {
+  height: 30px;
+  width: 25px;
+  font-size: 1.3em;
+  color: #fff;
+  border: 1px solid #0098c9;
+  border-radius: 5px;
+  background-color:  #0098c9;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.diary__post__button__delete:hover {
+  color: #0098c9;
+  background-color: #fff;
+}
+
+.diary__form {
+  width: 100%;
+  text-align: center;
+}
+
+.form__header {
+  padding: 10px 0;
+  background-color: #364954;
+}
+
+.form__input {
+  width: 95%;
+  height: 32px;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.form__textarea {
+  width: 95%;
+  height: 25vh;
+  margin: 10px auto;
+  padding: 5px;
+  border-radius: 5px;
+  white-space: pre-line;
+}
+
+.form__button__box {
+  width: 95%;
+  height: 50px;
+  margin: 0 auto;
+  padding: 10px 0;
+
+  display: flex;
+  justify-content: space-between;
+}
+
+.form__button {
+  width: 45%;
+  height: max(42px, 3vh);
+  color: #0098c9;
+  font-size: 1.2em;
+  font-weight: bolder;
+
+  background-color: #fff;
+  border: 2px solid #0098c9;
+  border-radius: 5px;
+}
+
+.form__button:hover {
+  color: #fff;
+  background-color: #0098c9;
+}
+
+@media screen and (max-width: 414px) {
+  .diary__header__title {
+    font-size: 1.5em;
+  }
+  .button__content {
+    font-size: 0.9em;
+  }
+
+  .button__icon {
+    font-size: 1.5em;
+  }
+}
