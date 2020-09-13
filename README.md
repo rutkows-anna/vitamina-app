@@ -1,4 +1,4 @@
-# to-do-app
+# viatmina-app
 
 Vitamina-app is a group project (not finished) created with **React.js**, **Redux**, **Firebase** and **Material-UI**.
 
